@@ -1,2 +1,2 @@
 # portfolio-website
-contains th source code for my portfolio website
+contains the source code for my portfolio website
